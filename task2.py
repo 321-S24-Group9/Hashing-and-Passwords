@@ -42,6 +42,7 @@ def crack_passwords(users):
         for password in generate_passwords():
             # Generate bcrypt hash with the same salt and work factor
             test_hash = bcrypt.hashpw(password.encode('utf-8'), f"${algorithm}${workfactor}${salt}".encode('utf-8')).decode('utf-8')
+            print(password)
             if test_hash == f"${algorithm}${workfactor}${salt}${password_hash}":
                 end_time = time.time()
                 crack_time = end_time - start_time
