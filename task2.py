@@ -25,8 +25,6 @@ def load_users(filename):
 
 # Function to generate potential passwords
 def generate_passwords():
-    # You can modify this function to generate passwords from a dictionary or other sources
-    # For simplicity, let's generate passwords with lowercase alphabets only, 6 to 10 characters long
     password_lengths = range(6, 11)
     alphabet = 'abcdefghijklmnopqrstuvwxyz'
     for length in password_lengths:
