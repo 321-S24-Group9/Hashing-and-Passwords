@@ -26,7 +26,7 @@ def crack_password(user, full_hash, word_list):
     return None
 
 def main():
-    shadow_file = 'shadow.txt'
+    shadow_file = 'shadow_part.txt'
     user_hash_data = parse_shadow_file(shadow_file)
 
     results = []

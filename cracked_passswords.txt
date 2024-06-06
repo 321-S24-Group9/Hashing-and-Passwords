@@ -1,0 +1,41 @@
+Cracking password for user: Bilbo
+Password for user Bilbo is: welcome
+Time taken: 26.31 minutes
+Cracking password for user: Gandalf
+Password for user Gandalf is: wizard
+Time taken: 26.53 minutes
+Cracking password for user: Thorin
+Password for user Thorin is: diamond
+Time taken: 6.31 minutes
+Cracking password for user: Fili
+Password for user Fili is: desire
+Time taken: 12.34 minutes
+Cracking password for user: Kili
+Password for user Kili is: ossify
+Time taken: 30.64 minutes
+Cracking password for user: Balin
+Password for user Balin is: hangout
+Time taken: 39.76 minutes
+Cracking password for user: Dwalin
+Password for user Dwalin is: drossy
+Time taken: 27.58 minutes
+Cracking password for user: Oin
+Password for user Oin is: ispaghul
+Time taken: 46.01 minutes
+Cracking password for user: Gloin
+Password for user Gloin is: oversave
+Time taken: 125.86 minutes
+Cracking password for user: Dori
+Password for user Dori is: indoxylic
+Time taken: 88.86 minutes
+Password for user Nori is: swagsman
+Time taken: 184.89 minutes
+Cracking password for user: Ori
+Password for user Ori is: airway
+Time taken: 8.62 minutes
+Cracking password for user: Bifur
+Password for user Bifur is: corrosible
+Time taken: 83.53 minutes
+Cracking password for user: Bofur
+Password for user Bofur is: libellate
+Time taken: 198.74 minutes
