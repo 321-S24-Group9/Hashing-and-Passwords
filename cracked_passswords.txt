@@ -39,3 +39,6 @@ Time taken: 83.53 minutes
 Cracking password for user: Bofur
 Password for user Bofur is: libellate
 Time taken: 198.74 minutes
+Cracking password for user: Durin
+Password for user Durin is: purrone
+Time taken: 594.24 minutes 
